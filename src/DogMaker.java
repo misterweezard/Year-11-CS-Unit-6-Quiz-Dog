@@ -6,7 +6,7 @@ public class DogMaker {
     System.out.println(dog.getAge());
     int age = dog.birthday();
     System.out.println(age);
-    System.out.println(dog);
+    System.out.println(dog); // comment
   }
 
 }
